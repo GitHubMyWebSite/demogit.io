@@ -1,1 +1,2 @@
 create branch # commit up repository. check change of repository.
+create branch 2 from branch 1. cause any file in branch will like in branch 2 when creare branch 2.
